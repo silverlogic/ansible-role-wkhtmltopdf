@@ -1,6 +1,8 @@
 wkhtmltopdf
 =========
 
+[![Build Status](https://travis-ci.com/fidanf/ansible-role-wkhtmltopdf.svg?branch=master)](https://travis-ci.com/fidanf/ansible-role-wkhtmltopdf)
+
 Installs [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) (precompiled binary) and it's dependencies for Ubuntu/Debian.
 
 Role Variables
