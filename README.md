@@ -1,7 +1,7 @@
 wkhtmltopdf
 =========
 
-Installs [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) (precompiled binary) and it's dependencies.
+Installs [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) (precompiled binary) and it's dependencies for Ubuntu/Debian.
 
 Role Variables
 --------------
