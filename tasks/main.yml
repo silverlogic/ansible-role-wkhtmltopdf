@@ -11,7 +11,7 @@
 - name: wkhtmltopdf | install package
   block:
 
-    - name: wkhtmltopdf | install remaining dependencies
+    - name: wkhtmltopdf | install
       become: yes
       shell: 
         cmd: apt-get install wkhtmltopdf=0.12.5-1 -y
